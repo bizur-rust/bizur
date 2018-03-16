@@ -1,0 +1,6 @@
+[package]
+name = "bizur"
+version = "0.1.0"
+authors = ["David Castillo <davidcastillo@s4n.co>"]
+
+[dependencies]
